@@ -1,5 +1,5 @@
 # Learning to Respond to Reddit Writing Prompts from Human Feedback
-> This is a project where I attempted to train transformer language models with reinforcement learning to respond to [Reddit Writing Prompts](reddit.com/r/writingprompts) and learn human preferences for better writing prompt responses.
+> This is a project where I attempted to train transformer language models with reinforcement learning to respond to [Reddit Writing Prompts](https://reddit.com/r/writingprompts) and learn human preferences for better writing prompt responses.
 
 ## High-level overview
 
