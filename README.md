@@ -115,3 +115,6 @@ The PPO implementation largely follows the structure introduced in the paper **"
 
 ### Language models
 The language models utilize the `transformer` library by 🤗Hugging Face.
+
+### trl
+The [`trl` library](https://github.com/lvwerra/trl) by lverra was immensely helpful for a lot of the code that this project was based on. 
