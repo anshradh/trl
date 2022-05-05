@@ -23,9 +23,11 @@ There are 6 notebooks associated with this project:
 
 ## Example Comparison of Outputs from Fine-Tuned Model and Trained Policy Model:
 **Prompt:** 
+
 Writing Prompt: The demon you conjured up 20 years ago is at your front door. She says that her and Lucifer got in a fight and she needs a place to stay for awhile. Response:
 
 **Reference Model Fine-Tuned on Writing Prompt Dataset Output:**
+
 The dust has failed me, another!
 
 The here is a mental health lawsuit.Emotion to you suddenly get this pretty easy and not life saving the day. This was it however, was won!
@@ -60,6 +62,7 @@ Today is the last few days of retroactive to release link to file attachments mo
 The traveler train enters view re: what
 
 **RL Trained Policy Model Output:**
+
 bottom-famyan drawback 2 minutes late!
 The leader behind these lists are the current updates
 
