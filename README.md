@@ -21,6 +21,11 @@ There are 6 notebooks associated with this project (in the [`nbs`](https://githu
 5. `04-writing-prompt-supervised-baseline-training.ipynb` takes a "behavioral cloning" approach to the task and simply fine-tunes a language model on an r/writingprompts dataset to generate responses to writing prompts.
 6. Finally, `05-writing-prompts-rlhf.ipynb` puts everything together and uses PPO to train a policy model (starting off with the supervised baseline from the previous notebook) against the reward model trained earlier.
 
+## Links to Trained Models on Huggingface Hub
+[`distilgpt2 Reward Model`](https://huggingface.co/anshr/distilgpt2_reward_model_final)
+[`distilgpt2 Supervised Learning Model`](https://huggingface.co/anshr/distilgpt2_supervised_model_final)
+[`distilgpt2 RL Trained Policy Model`](https://huggingface.co/anshr/distilgpt2_trained_policy_model_final)
+
 ## Example Comparison of Outputs from Fine-Tuned Model and Trained Policy Model:
 **Prompt:** 
 
