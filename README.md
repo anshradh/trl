@@ -21,6 +21,69 @@ There are 6 notebooks associated with this project:
 5. `04-writing-prompt-supervised-baseline-training.ipynb` takes a "behavioral cloning" approach to the task and simply fine-tunes a language model on an r/writingprompts dataset to generate responses to writing prompts.
 6. Finally, `05-writing-prompts-rlhf.ipynb` puts everything together and uses PPO to train a policy model (starting off with the supervised baseline from the previous notebook) against the reward model trained earlier.
 
+## Example Comparison of Outputs from Fine-Tuned Model and Trained Policy Model:
+**Prompt:** 
+Writing Prompt: The demon you conjured up 20 years ago is at your front door. She says that her and Lucifer got in a fight and she needs a place to stay for awhile. Response:
+
+**Reference Model Fine-Tuned on Writing Prompt Dataset Output:**
+The dust has failed me, another!
+
+The here is a mental health lawsuit.Emotion to you suddenly get this pretty easy and not life saving the day. This was it however, was won!
+
+11:17am
+
+A poster has surfaced via 
+
+
+
+\-----------
+
+
+Anyways, go check out the lineup of treats and tools you need to know to stop your serious daughter
+
+You nevermind and lose it.
+
+"Shit." repeated Carol Gates, one mile from me
+
+I saw a reporter at hundreds of pairs of hands tightened their shoulders, crafted the human body easier for the next 10 minutes while holding their breath.
+
+U. Hulk
+
+I wasn't about to protest!
+
+WE ARE ABUSE OF ACCOUNTED
+
+&# begin streaming pirating
+
+Today is the last few days of retroactive to release link to file attachments most necessary
+
+The traveler train enters view re: what
+
+**RL Trained Policy Model Output:**
+bottom-famyan drawback 2 minutes late!
+The leader behind these lists are the current updates
+
+&#
+
+This is my third time telling me about some of the emerging traits that make, life of gods and fallen angels. You are not welcome
+
+Ignoring the toothfalls people use to grow hinds of the oppressors who are annoying them to you around everyday. A simple test, all you are seeing is passersmeters and the stars best to her.
+
+You shall fail.
+
+
+It's a must be pragmatic move. There is a lot of time, I've maybe some Ted Hayes and I teamed up again for the LiveJournal just a couple of days ago.
+
+This mission statement.
+
+First time posting.
+
+I see what you are thinking is my favorite way to take a turn coming this weekend, my name is Maurice Goodwin.
+
+Ok, I need some extra provocation.
+
+The first generation of humans, not needing
+
 ## References
 
 ### Proximal Policy Optimisation
