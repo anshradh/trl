@@ -13,7 +13,7 @@ Fine-tuning a language model via RLHF  consists of roughly three steps:
 
 
 ## Notebooks
-There are 6 notebooks associated with this project:
+There are 6 notebooks associated with this project (in the [`nbs`](https://github.com/anshradh/trl_custom/tree/master/nbs) directory:
 1. `00-core.ipynb` is mostly just helper functions (some of which were transferred from the `trl` repo this project was forked from and are no longer relevant).
 2. `01-model-with-value-head.ipynb` is mostly forked from `trl` and is meant to allow a "value head" to be attached on top of a language model (for PPO purposes), as well as an associated helper function to generate language model outputs.
 3. `02-ppo.ipynb` is mostly forked from `trl`, with the addition of a separate "value model" that is optimized alongside the "policy model", instead of having updates to one network ruin the other (if they were combined). This was an update to the approach taken in the original **"Fine-Tuning Language Models from Human Preferences"** that **"Learning to Summarize from Human Feedback"** introduced.
